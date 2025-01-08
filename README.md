@@ -6,6 +6,8 @@
 
 **Fork of the original [Book](https://themes.gohugo.io/themes/hugo-book) theme by [alex-shpak](https://github.com/alex-shpak), which was released under the MIT license. The code in this fork is released under the [Eclipse Public License 2.0 (EPL-2.0)](https://www.eclipse.org/legal/epl-2.0).**
 
+You can find an example here: https://github.com/pasabanov/hugo-book-example.
+
 ![Screenshot](https://raw.githubusercontent.com/pasabanov/hugo-book/main/images/screenshot.png)
 
 - [Features](#features)
@@ -77,18 +79,7 @@ hugo server --minify
 
 ### Creating site from scratch
 
-Below is an example on how to create a new site from scratch:
-
-```sh
-hugo new site mydocs; cd mydocs
-git init
-git submodule add https://github.com/pasabanov/hugo-book themes/hugo-book
-cp -R themes/hugo-book/exampleSite/content.en/* ./content
-```
-
-```sh
-hugo server --minify --theme hugo-book
-```
+You can clone the [example repository](https://github.com/pasabanov/hugo-book-example)
 
 ## Menu
 
@@ -105,7 +96,7 @@ A blog is not the primary usecase of this theme, so it has only minimal features
 ### Site Configuration
 
 There are a few configuration options that you can add to your `hugo.toml` file.  
-You can also see the `yaml` example [here](https://github.com/pasabanov/hugo-book/blob/master/exampleSite/hugo.yaml).
+You can also see the `yaml` example [here](https://github.com/pasabanov/hugo-book-example/blob/main/hugo.yaml).
 
 ```toml
 # (Optional) If you provide a Disqus shortname, comments will be enabled on
@@ -155,7 +146,7 @@ disableKinds = ['taxonomy', 'taxonomyTerm']
 	# Enable 'Edit this page' links for 'doc' page type.
 	# Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
 	# Path must point to the site directory.
-	BookEditPath = 'edit/master/exampleSite'
+	BookEditPath = 'edit/main'
 
 	# (Optional, default January 2, 2006) Configure the date format used on the pages
 	# - In git information
