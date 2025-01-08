@@ -44,7 +44,7 @@ You can find an example here: https://github.com/pasabanov/hugo-book-example.
 Navigate to your hugo project root and run:
 
 ```
-git submodule add https://github.com/pasabanov/hugo-book themes/hugo-book
+git submodule add --depth 1 https://github.com/pasabanov/hugo-book themes/hugo-book
 ```
 
 Then run hugo (or set `theme = "hugo-book"`/`theme: hugo-book` in configuration file)
@@ -134,7 +134,7 @@ disableKinds = ['taxonomy', 'taxonomyTerm']
 
 	# Set source repository location.
 	# Used for 'Last Modified' and 'Edit this page' links.
-	BookRepo = 'https://github.com/pasabanov/hugo-book'
+	BookRepo = 'https://github.com/pasabanov/hugo-book-example'
 
 	# Specifies commit portion of the link to the page's last modified commit hash for 'doc' page
 	# type.
