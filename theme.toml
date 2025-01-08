@@ -1,11 +1,9 @@
-# theme.toml template for a Hugo theme
-# See https://github.com/gohugoio/hugoThemes#themetoml for an example
-
 name = "Book"
 license = "EPL-2.0"
 licenselink = "https://github.com/pasabanov/hugo-book/blob/master/LICENSE.txt"
 description = "Hugo documentation theme as simple as plain book."
 homepage = "https://github.com/pasabanov/hugo-book"
+demosite = "https://pasabanov.github.io/hugo-book-example"
 tags = ["responsive", "clean", "documentation", "docs", "flexbox", "search", "mobile", "multilingual", "disqus"]
 features = []
 min_version = "0.128.0"
