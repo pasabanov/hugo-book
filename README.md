@@ -8,7 +8,7 @@
 
 You can find an example here: https://github.com/pasabanov/hugo-book-example.
 
-![Screenshot](https://raw.githubusercontent.com/pasabanov/hugo-book/main/images/screenshot.png)
+![Screenshot](https://github.com/user-attachments/assets/3dda67f7-09cc-47d2-97fc-b4d676a78ac0)
 
 - [Features](#features)
 - [Requirements](#requirements)
