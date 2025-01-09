@@ -17,7 +17,6 @@ You can find an example here: https://github.com/pasabanov/hugo-book-example.
 - [Blog](#blog)
 - [Configuration](#configuration)
 - [Shortcodes](#shortcodes)
-- [Versioning](#versioning)
 - [Contributing](#contributing)
 
 ## Features
