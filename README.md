@@ -4,7 +4,7 @@
 
 ### [Hugo](https://gohugo.io) documentation theme as simple as plain book
 
-**Fork of the original [Book](https://themes.gohugo.io/themes/hugo-book) theme by [alex-shpak](https://github.com/alex-shpak), which was released under the [MIT license](https://mit-license.org). The code in this fork is released under the [Eclipse Public License 2.0 (EPL-2.0)](https://www.eclipse.org/legal/epl-2.0).**
+**Fork of the original [Book](https://themes.gohugo.io/themes/hugo-book) theme by [alex-shpak](https://github.com/alex-shpak), which was released under the [MIT license](https://mit-license.org). The code in this fork is released under the [GNU Lesser General Public License 3.0 (LGPL-3.0-or-later)](https://www.gnu.org/licenses/lgpl-3.0.en.html).**
 
 You can find an example here: https://github.com/pasabanov/hugo-book-example.
 
@@ -297,7 +297,18 @@ Feel free to open issues if you find missing configuration or customisation opti
 
 ## License
 
-This project is licensed under the Eclipse Public License 2.0 (EPL-2.0). You may obtain a copy of the License at https://www.eclipse.org/legal/epl-2.0.
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Lesser General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Lesser General Public License for more details.
+
+You should have received a copy of the GNU Lesser General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 ## Copyright
 

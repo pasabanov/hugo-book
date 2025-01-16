@@ -1,5 +1,5 @@
 name = "Book"
-license = "EPL-2.0"
+license = "LGPL-3.0-or-later"
 licenselink = "https://github.com/pasabanov/hugo-book/blob/master/LICENSE.txt"
 description = "Hugo documentation theme as simple as plain book."
 homepage = "https://github.com/pasabanov/hugo-book"
