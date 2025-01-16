@@ -5,6 +5,6 @@ weight: 1
 # bookToc: true
 # bookHidden: false
 # bookCollapseSection: false
-# bookComments: false
+# bookComments: true
 # bookSearchExclude: false
 ---

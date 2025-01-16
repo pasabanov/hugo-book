@@ -157,11 +157,11 @@ disableKinds = ['taxonomy', 'taxonomyTerm']
 	# Configuration for indexing can be adjusted in i18n folder per language.
 	BookSearch = true
 
-	# (Optional, default true) Enables comments template on pages
+	# (Optional, default false) Enables comments template on pages
 	# By default partials/docs/comments.html includes Disqus template
 	# See https://gohugo.io/content-management/comments/#configure-disqus
 	# Can be overwritten by same param in page frontmatter
-	BookComments = true
+	BookComments = false
 
 	# /!\ This is an experimental feature, might be removed or changed at any time
 	# (Optional, experimental, default false) Enables portable links and link checks in markdown pages.
@@ -201,8 +201,8 @@ bookHidden = false
 # (Optional) Set 'false' to hide ToC from page
 bookToC = true
 
-# (Optional) If you have enabled BookComments for the site, you can disable it for specific pages.
-bookComments = true
+# (Optional) If you have not enabled BookComments for the site, you can enable it for specific pages.
+bookComments = false
 
 # (Optional) Set to 'false' to exclude page from search index.
 bookSearchExclude = true
