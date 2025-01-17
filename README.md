@@ -157,6 +157,11 @@ disableKinds = ['taxonomy', 'taxonomyTerm']
 	# Configuration for indexing can be adjusted in i18n folder per language.
 	BookSearch = true
 
+	# (Optional, default false) Enables KaTeX on every page.
+	# When enabled, formulas enclosed in `$...$`, `$$...$$`, `\(...\)` or `\[...\]`
+	# will be automatically rendered without requiring shortcodes `k` and `kk`.
+	BookGlobalKatex = false
+
 	# (Optional, default false) Enables comments template on pages
 	# By default partials/docs/comments.html includes Disqus template
 	# See https://gohugo.io/content-management/comments/#configure-disqus
@@ -268,7 +273,6 @@ In fact almost empty not quite empty because an empty file looks like absent for
 - [Columns](https://hugo-book-demo.netlify.app/docs/shortcodes/columns)
 - [Details](https://hugo-book-demo.netlify.app/docs/shortcodes/details)
 - [Hints](https://hugo-book-demo.netlify.app/docs/shortcodes/hints)
-- [KaTeX](https://hugo-book-demo.netlify.app/docs/shortcodes/katex)
 - [Mermaid](https://hugo-book-demo.netlify.app/docs/shortcodes/mermaid)
 - [Tabs](https://hugo-book-demo.netlify.app/docs/shortcodes/tabs)
 
