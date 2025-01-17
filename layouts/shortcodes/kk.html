@@ -1,0 +1,5 @@
+{{ partial "docs/katex" . }}
+
+<span {{- with .Get "class" }} class="{{ . }}"{{ end }}>
+  \[{{- .InnerDeindent -}}\]
+</span>
