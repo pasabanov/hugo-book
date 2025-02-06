@@ -4,7 +4,7 @@
 
 ### [Hugo](https://gohugo.io) documentation theme as simple as plain book
 
-**Fork of the original [Book](https://themes.gohugo.io/themes/hugo-book) theme by [alex-shpak](https://github.com/alex-shpak), which was released under the [MIT license](https://mit-license.org). The code in this fork is released under the [GNU Lesser General Public License 3.0 (LGPL-3.0-or-later)](https://www.gnu.org/licenses/lgpl-3.0.en.html).**
+**Fork of the original [Book](https://themes.gohugo.io/themes/hugo-book) theme by [alex-shpak](https://github.com/alex-shpak), which was released under the [MIT license](LICENSE.old). The code in this fork is released under the [GNU Lesser General Public License 3.0 (LGPL-3.0-or-later)](https://www.gnu.org/licenses/lgpl-3.0.en.html).**
 
 You can find an example here: https://github.com/pasabanov/hugo-book-example.
 
